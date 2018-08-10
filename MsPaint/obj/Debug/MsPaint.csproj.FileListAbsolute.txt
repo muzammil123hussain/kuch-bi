@@ -40,3 +40,5 @@ Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.csprojResolveA
 Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.MsPaint.resources
 Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.Properties.Resources.resources
 Z:\ACCP\DISM\C#\C #\C# Lectures\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.GenerateResource.Cache
+C:\Users\asp\Documents\GitHub\kuch-bi\MsPaint\obj\Debug\MsPaint.exe
+C:\Users\asp\Documents\GitHub\kuch-bi\MsPaint\obj\Debug\MsPaint.pdb
